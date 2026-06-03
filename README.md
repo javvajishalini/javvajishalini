@@ -4,9 +4,6 @@
 
 ### Software Developer • Open Source Contributor • Tech Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;Open+Source+Contributor;Continuous+Learner;Turning+Ideas+Into+Reality" alt="Typing SVG" />
-
-</div>
 
 ---
 
