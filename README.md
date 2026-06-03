@@ -1,70 +1,71 @@
-<h1 align="center">Hi 👋, I'm Shalini Javvaji</h1>
-<h3 align="center">Passionate Developer | Open Source Enthusiast | Lifelong Learner</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
+# Hi 👋, I'm Shalini
+
+### Software Developer • Open Source Contributor • Tech Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;Open+Source+Contributor;Continuous+Learner;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💻 Passionate about software development and problem-solving
+- 🌱 Continuously learning and exploring modern technologies
+- 🤝 Open to collaborating on innovative projects
+- 🎯 Focused on writing clean, efficient, and maintainable code
+- 📚 Believer in lifelong learning and knowledge sharing
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,tailwind,nodejs,spring,mysql,firebase,git,github,linux,vscode,postman" />
 </p>
 
----
-
-## 👩‍💻 About Me
-
-- 🌱 Currently learning **Full Stack Development**
-- 🚀 Interested in **Open Source Contributions**
-- 💡 Passionate about building impactful projects
-- 🤝 Looking to collaborate on exciting projects
-- 📫 Reach me at: **your-email@example.com**
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Activity
 
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=javvajishalini&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌟 Open Source
+
+I enjoy contributing to open-source projects, collaborating with developers worldwide, and creating solutions that make a positive impact on the developer community.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://github.com/javvajishalini">
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://github.com/your-username" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40"/>
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+<div align="center">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,vscode" />
-</p>
+### ✨ "Code with purpose. Learn without limits. Build for impact."
 
----
+<img src="https://komarev.com/ghpvc/?username=javvajishalini&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&row=1&column=7" />
-</p>
-
----
-
-## ✨ Quote
-
-> "Code. Learn. Build. Repeat. 🚀"
-
----
-
-<p align="center">
-  Thanks for visiting my profile! ⭐
-</p>
+</div>
