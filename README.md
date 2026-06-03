@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Javvaji Shalini</h1>
+<h1 align="center">Hi 👋, I'm Shalini Javvaji</h1>
 <h3 align="center">Passionate Developer | Open Source Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
