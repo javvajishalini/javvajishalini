@@ -19,7 +19,7 @@
 
 💡 Passionate about building impactful software solutions and continuously improving technical skills.
 
-- 🌱 Currently learning **Full Stack Development, AI Technologies & System Design**
+- 🌱 Currently learning **Full Stack Development, AI Technologies **
 - 💻 Interested in **Software Development, Open Source & Problem Solving**
 - 🤝 Open to collaboration on innovative projects
 - 🚀 Building projects focused on real-world applications
