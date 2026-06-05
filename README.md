@@ -1,10 +1,15 @@
+```html id="rm48ax"
 <div align="center">
 
-# Hi 👋, I'm Shalini
+<h1>Hi 👋, I'm Shalini J</h1>
 
-### Software Developer • Open Source Contributor • Tech Enthusiast
+<h3>Full Stack Developer • AI Enthusiast • Open Source Learner</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Software+Developer;Open+Source+Contributor;Continuous+Learner;Building+Projects+That+Matter" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Continuous+Learner;Building+Projects+That+Matter" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=javvajishalini&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -12,20 +17,36 @@
 
 ## 🚀 About Me
 
-💡 Passionate about creating impactful software solutions and continuously improving my technical skills.
+💡 Passionate about building impactful software solutions and continuously improving technical skills.
 
-* 🌱 Currently exploring modern development technologies
-* 💻 Interested in Full-Stack Development and Open Source
-* 🤝 Open to collaboration on innovative projects
-* 🚀 Always eager to learn and grow as a developer
-* 📚 Strong believer in continuous learning
+- 🌱 Currently learning **Full Stack Development, AI Technologies & System Design**
+- 💻 Interested in **Software Development, Open Source & Problem Solving**
+- 🤝 Open to collaboration on innovative projects
+- 🚀 Building projects focused on real-world applications
+- 📚 Strong believer in continuous learning and improvement
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,tailwind,nodejs,spring,mysql,firebase,git,github,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=java,python,js" />
+</p>
+
+### Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### Backend & Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,firebase" />
+</p>
+
+### Tools & Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 </p>
 
 ---
@@ -39,6 +60,8 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javvajishalini&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -58,32 +81,56 @@
 
 ---
 
-## 🌟 Open Source
+## 🌟 Current Focus
 
-I enjoy contributing to open-source projects, collaborating with developers worldwide, and building solutions that create a positive impact within the developer community.
+✔ Strengthening DSA & Problem Solving  
+✔ Building Full Stack Applications  
+✔ Exploring AI & Automation  
+✔ Contributing to Open Source  
+
+---
+
+## 🌍 Open Source
+
+I enjoy contributing to open-source projects, collaborating with developers worldwide, and building solutions that positively impact the developer community.
+
+---
+
+## 🔗 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/shalini_javvaji/">
+<img src="https://skillicons.dev/icons?i=leetcode"/>
+</a>
+
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/javvajishalini">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+
+<a href="https://github.com/javvajishalini">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/javvaji-shalini-37b527328">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:shalinijavvaji06@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### ✨ "Code with purpose. Learn without limits. Build for impact."
-
-<img src="https://komarev.com/ghpvc/?username=javvajishalini&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<h3>✨ "Code with Purpose • Learn Without Limits • Build for Impact"</h3>
 
 </div>
+```
