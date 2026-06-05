@@ -96,15 +96,6 @@ I enjoy contributing to open-source projects, collaborating with developers worl
 
 ---
 
-## 🔗 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/shalini_javvaji/">
-<img src="https://skillicons.dev/icons?i=leetcode"/>
-</a>
-
-</p>
 
 ---
 
