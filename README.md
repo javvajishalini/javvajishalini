@@ -131,7 +131,6 @@ I'm a Computer Science student passionate about developing scalable applications
 # 📚 Currently Learning
 
 * Spring Boot
-* React
 * REST APIs
 * PostgreSQL
 * System Design
