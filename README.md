@@ -1,57 +1,94 @@
-
 <div align="center">
 
-<h1>Hi 👋, I'm Shalini J</h1>
+# Hi 👋, I'm **Shalini J**
 
-<h3>Full Stack Developer • AI Enthusiast • Open Source Learner</h3>
+### Full Stack Developer • Java Developer • AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Continuous+Learner;Building+Projects+That+Matter" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+Developer;AI+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies" />
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=javvajishalini&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=javvajishalini&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👩‍💻 About Me
 
-💡 Passionate about building impactful software solutions and continuously improving technical skills.
+I'm a Computer Science student passionate about developing scalable applications and solving real-world problems through software.
 
-- 🌱 Currently learning **Full Stack Development, AI Technologies **
-- 💻 Interested in **Software Development, Open Source & Problem Solving**
-- 🤝 Open to collaboration on innovative projects
-- 🚀 Building projects focused on real-world applications
-- 📚 Strong believer in continuous learning and improvement
+* 🌱 Learning **Spring Boot, React, AI, and System Design**
+* 💻 Interested in **Full Stack Development**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🚀 Building real-world projects using modern technologies
+* 🤝 Open to internships and collaborative projects
+* 📚 Always learning something new
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Featured Projects
+
+### 🔹 API Testing Tool
+
+* Send GET, POST, PUT, DELETE requests
+* Save API collections
+* View formatted responses
+* Built using **React, Spring Boot, PostgreSQL**
+
+---
+
+### 🔹 OTP Authentication System
+
+* Email OTP Verification
+* Secure Login & Registration
+* JWT Authentication
+* React + Node.js + MongoDB
+
+---
+
+### 🔹 AI Projects *(Coming Soon)*
+
+* AI Resume Analyzer
+* AI Study Assistant
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
 ### Frontend
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-### Backend & Database
+### Backend
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring" />
 </p>
 
-### Tools & Platforms
+### Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+### Tools
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -71,7 +108,7 @@
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -81,38 +118,47 @@
 
 ---
 
-## 🌟 Current Focus
+# 🎯 Current Goals
 
-✔ Strengthening DSA & Problem Solving  
-✔ Building Full Stack Applications  
-✔ Exploring AI & Automation  
-✔ Contributing to Open Source  
-
----
-
-## 🌍 Open Source
-
-I enjoy contributing to open-source projects, collaborating with developers worldwide, and building solutions that positively impact the developer community.
+* ✅ Solve 300+ DSA Problems
+* ✅ Build 10+ Production-Level Projects
+* ✅ Learn Spring Boot & Microservices
+* ✅ Explore AI & Automation
+* ✅ Contribute to Open Source
 
 ---
 
+# 📚 Currently Learning
+
+* Spring Boot
+* React
+* REST APIs
+* PostgreSQL
+* System Design
+* AI & LLM Applications
 
 ---
 
-## 🤝 Connect With Me
+# 💡 Fun Fact
+
+> I enjoy turning ideas into software that solves real-world problems while continuously improving my coding skills.
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/javvajishalini">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/javvaji-shalini-37b527328">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:shalinijavvaji06@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
@@ -121,6 +167,6 @@ I enjoy contributing to open-source projects, collaborating with developers worl
 
 <div align="center">
 
-<h3>✨ "Code with Purpose • Learn Without Limits • Build for Impact"</h3>
+### ⭐ *"Build. Learn. Improve. Repeat."*
 
 </div>
