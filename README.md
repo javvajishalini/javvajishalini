@@ -43,7 +43,7 @@
 
 ---
 
-# About Me
+👨🏻‍💻 **About Me** 😊 <img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="300px" max-width="300px" width="350px" align="right"/>
 
 I'm a Computer Science student passionate about developing scalable applications and solving real-world problems through software.
 
