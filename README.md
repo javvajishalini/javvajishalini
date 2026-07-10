@@ -162,7 +162,15 @@ I'm a Computer Science student passionate about developing scalable applications
 
 <div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/javvajishalini/javvajishalini/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javvajishalini/javvajishalini/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/javvajishalini/javvajishalini/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/javvajishalini/javvajishalini/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
+
+
+
 </div>
