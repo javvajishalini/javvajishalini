@@ -2,9 +2,7 @@
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/javvajishalini/javvajishalini/output/github-contribution-grid-snake-dark.svg" />
-</p>
+
 
 # Hi 👋, I'm **Shalini J**
 
@@ -17,6 +15,25 @@
 <img src="https://komarev.com/ghpvc/?username=javvajishalini&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
+
+# Connect With Me
+
+
+
+<a href="https://github.com/javvajishalini">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/javvaji-shalini-37b527328">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:shalinijavvaji06@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+
+
 
 ---
 
@@ -142,36 +159,10 @@ I'm a Computer Science student passionate about developing scalable applications
 * System Design
 * AI & LLM Applications
 
----
-
-# 💡 Fun Fact
-
-> I enjoy turning ideas into software that solves real-world problems while continuously improving my coding skills.
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/javvajishalini">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/javvaji-shalini-37b527328">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:shalinijavvaji06@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
 
 <div align="center">
 
-### ⭐ *"Build. Learn. Improve. Repeat."*
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/javvajishalini/javvajishalini/output/github-contribution-grid-snake-dark.svg" />
+</p>
 </div>
